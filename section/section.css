@@ -1,0 +1,49 @@
+.section{
+    display: grid;
+    grid-template-columns: 40rem 1fr 1fr;
+    grid-template-rows: 30rem 30rem;
+    max-width: 100%;
+    height: 100%;
+    gap: 2rem;
+}
+.sec1{
+    gap: 3rem;
+    text-align: center;
+    margin: auto;
+    color: white;
+    background-color: orange;
+    width: 100%;
+    height: 100%;
+}
+.sec2{
+    text-align: center;
+    margin: auto;
+    color: white;
+    background-color: orange;
+    width: 100%;
+    height: 100%;
+}
+.sec3{
+    text-align: center;
+    margin: auto;
+    color: white;
+    background-color: orange;
+    width: 100%;
+    height: 100%;
+}
+.sec4{
+    text-align: center;
+    margin: auto;
+    color: white;
+    background-color: orange;
+    width: 100%;
+    height: 100%;
+}
+.sec5{
+    text-align: center;
+    margin: auto;
+    color: white;
+    background-color: orange;
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,38 @@
+.header{
+background-color: rgb(12, 175, 12);
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-template-rows: 5rem 1fr;
+
+}
+
+.div1{
+    text-align: center;
+    margin: auto;
+    background-color: green;
+    border: 1rem solid green;
+    border-radius: 0.5rem;
+    width: 90%;
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+.div2{
+    text-align: center;
+    margin: auto;
+    background-color: green;
+    border: 1rem solid green;
+    border-radius: 0.5rem;
+    width: 90%;
+    grid-column: 2/3;
+    grid-row: 1/2;
+}
+.div3{
+    text-align: center;
+    margin: auto;
+    background-color: green;
+    border: 1rem solid green;
+    border-radius: 0.5rem;
+    width: 90%;
+    grid-column: 3/3;
+    grid-row: 1/2;
+}
